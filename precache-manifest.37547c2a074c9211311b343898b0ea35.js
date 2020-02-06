@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dd0f3a0ddf4b4e34b0cd5cbc1122a362",
+    "revision": "be76fd1b7056ebd3553ddeaf3d894f87",
     "url": "/code-kata-video-app/index.html"
   },
   {
-    "revision": "7350234db5c3945298cc",
-    "url": "/code-kata-video-app/static/css/main.0038dda7.chunk.css"
+    "revision": "00fda740956557804533",
+    "url": "/code-kata-video-app/static/css/main.668319ff.chunk.css"
   },
   {
     "revision": "11377c8cdfc35fab47da",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/code-kata-video-app/static/js/2.fcb1a2cb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7350234db5c3945298cc",
-    "url": "/code-kata-video-app/static/js/main.d4aad7a1.chunk.js"
+    "revision": "00fda740956557804533",
+    "url": "/code-kata-video-app/static/js/main.1a1235e8.chunk.js"
   },
   {
     "revision": "ecd48badcb32d1a70518",
