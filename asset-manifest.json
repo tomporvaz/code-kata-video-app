@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/code-kata-video-app/static/css/main.0038dda7.chunk.css",
+    "main.js": "/code-kata-video-app/static/js/main.d4aad7a1.chunk.js",
+    "main.js.map": "/code-kata-video-app/static/js/main.d4aad7a1.chunk.js.map",
+    "runtime-main.js": "/code-kata-video-app/static/js/runtime-main.f6bb8caa.js",
+    "runtime-main.js.map": "/code-kata-video-app/static/js/runtime-main.f6bb8caa.js.map",
+    "static/js/2.fcb1a2cb.chunk.js": "/code-kata-video-app/static/js/2.fcb1a2cb.chunk.js",
+    "static/js/2.fcb1a2cb.chunk.js.map": "/code-kata-video-app/static/js/2.fcb1a2cb.chunk.js.map",
+    "index.html": "/code-kata-video-app/index.html",
+    "precache-manifest.b7c584a51b28063733b00c4dd00fe2d7.js": "/code-kata-video-app/precache-manifest.b7c584a51b28063733b00c4dd00fe2d7.js",
+    "service-worker.js": "/code-kata-video-app/service-worker.js",
+    "static/css/main.0038dda7.chunk.css.map": "/code-kata-video-app/static/css/main.0038dda7.chunk.css.map",
+    "static/js/2.fcb1a2cb.chunk.js.LICENSE.txt": "/code-kata-video-app/static/js/2.fcb1a2cb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f6bb8caa.js",
+    "static/js/2.fcb1a2cb.chunk.js",
+    "static/css/main.0038dda7.chunk.css",
+    "static/js/main.d4aad7a1.chunk.js"
+  ]
+}
