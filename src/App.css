@@ -2,10 +2,6 @@
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
 
 .App-header {
   background-color: #282c34;
@@ -19,8 +15,8 @@
 }
 
 iframe{
-  width:50vw;
-  height: 50vh;
+  width: 550px;
+  height: 400px;
   margin: 2rem;
 
 }
@@ -32,6 +28,10 @@ button{
   height: 3rem;
   margin: 1rem;
   border-radius: 1rem;
+}
+
+a{
+  margin-top: 20vh;
 }
 
 

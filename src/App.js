@@ -12,7 +12,7 @@ class App extends React.Component {
     //clicked is not currently used, but it has been added in order to facilitate a styling updated based on which key is pressed.
     this.state = {
       "urlList": theBasics,
-      "currentIFrameURL": ""
+      "currentIFrameURL": "https://www.youtube.com/embed/UB1O30fR-EE"
     };
     this.handleClick = this.handleClick.bind(this);
   }
@@ -28,7 +28,10 @@ class App extends React.Component {
   render() {
     console.log(this.state.currentIFrameURL);
     return(<div className="App">
+      
       <header className="App-header">
+
+        
 
         <iframe src={this.state.currentIFrameURL} title="video-content"></iframe>
         <div className="buttonContainer">
@@ -37,7 +40,14 @@ class App extends React.Component {
           <button className="javascript" onClick={() => this.handleClick('javascript')}>javascript</button>
 
         </div>
+        <a href="https://github.com/tomporvaz/code-kata-video-app">
+          View on Github
+          &nbsp;
+          <i class="fab fa-github"></i>
+        </a>
+
       </header>
+
     </div>)
   };
 }
