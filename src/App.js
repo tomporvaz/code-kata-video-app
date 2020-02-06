@@ -40,7 +40,7 @@ class App extends React.Component {
           <button className="javascript" onClick={() => this.handleClick('javascript')}>javascript</button>
 
         </div>
-        <a href="https://github.com/tomporvaz/code-kata-video-app">
+        <a href="https://github.com/tomporvaz/code-kata-video-app/tree/master">
           View on Github
           &nbsp;
           <i class="fab fa-github"></i>
