@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/code-kata-video-app/static/css/main.668319ff.chunk.css",
-    "main.js": "/code-kata-video-app/static/js/main.1a1235e8.chunk.js",
-    "main.js.map": "/code-kata-video-app/static/js/main.1a1235e8.chunk.js.map",
+    "main.js": "/code-kata-video-app/static/js/main.8ede5f78.chunk.js",
+    "main.js.map": "/code-kata-video-app/static/js/main.8ede5f78.chunk.js.map",
     "runtime-main.js": "/code-kata-video-app/static/js/runtime-main.f6bb8caa.js",
     "runtime-main.js.map": "/code-kata-video-app/static/js/runtime-main.f6bb8caa.js.map",
     "static/js/2.fcb1a2cb.chunk.js": "/code-kata-video-app/static/js/2.fcb1a2cb.chunk.js",
     "static/js/2.fcb1a2cb.chunk.js.map": "/code-kata-video-app/static/js/2.fcb1a2cb.chunk.js.map",
     "index.html": "/code-kata-video-app/index.html",
-    "precache-manifest.37547c2a074c9211311b343898b0ea35.js": "/code-kata-video-app/precache-manifest.37547c2a074c9211311b343898b0ea35.js",
+    "precache-manifest.98b8816446f485d6b16b7b735ed57cc8.js": "/code-kata-video-app/precache-manifest.98b8816446f485d6b16b7b735ed57cc8.js",
     "service-worker.js": "/code-kata-video-app/service-worker.js",
     "static/css/main.668319ff.chunk.css.map": "/code-kata-video-app/static/css/main.668319ff.chunk.css.map",
     "static/js/2.fcb1a2cb.chunk.js.LICENSE.txt": "/code-kata-video-app/static/js/2.fcb1a2cb.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.f6bb8caa.js",
     "static/js/2.fcb1a2cb.chunk.js",
     "static/css/main.668319ff.chunk.css",
-    "static/js/main.1a1235e8.chunk.js"
+    "static/js/main.8ede5f78.chunk.js"
   ]
 }
